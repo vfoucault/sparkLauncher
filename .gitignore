@@ -60,8 +60,4 @@ project/plugins/project/
 .cache
 .lib/
 .idea/
-build.sbt
-project/
-src/
-
 *.iml
